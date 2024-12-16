@@ -63,7 +63,7 @@ public class CreatureSorter {
         }
     }
 
-    // Selection Sort implementation (Ascending Order)
+    // Selection Sort implementation Ascending Order
     public static void selectionSortAscending(Creature[] creatures) {
         int n = creatures.length;
         for (int i = 0; i < n - 1; i++) {
